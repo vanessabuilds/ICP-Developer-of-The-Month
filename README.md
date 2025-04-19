@@ -1,6 +1,6 @@
 ICP Developer of the Month: My ICP Journey 🚀
 
-Over the past thirty days I dove head‑first into the Internet Computer (ICP) ecosystem—learning Motoko from scratch, wiring up NFID email auth, learning how to move real bitcoin with ckBTC, and, for the **MoMo Mini‑Hackathon**, building a proof‑of‑concept **on‑chain sentiment‑analysis canister** using the MotokoLearn library. In this post I’ll recap what I learned and link the key resources.
+Over the past thirty days I dove head‑first into the Internet Computer (ICP) ecosystem; learning Motoko from scratch, wiring up NFID email auth, learning how to move real bitcoin with ckBTC, and, for the **MoMo Mini‑Hackathon**, building a proof‑of‑concept **on‑chain sentiment‑analysis canister** using the MotokoLearn library. In this post I’ll recap what I learned and link the key resources.
 
 ---
 
